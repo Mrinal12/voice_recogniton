@@ -2,4 +2,4 @@ SpeechRecognition
 scipy
 numpy
 librosa
-pyaudio
+pyaudio==0.2.11
