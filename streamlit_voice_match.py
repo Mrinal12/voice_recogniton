@@ -2,7 +2,6 @@ import streamlit as st
 import speech_recognition as sr
 import numpy as np
 from scipy.spatial import distance
-import pyaudio
 import librosa
 import librosa.display
 
