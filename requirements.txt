@@ -1,3 +1,5 @@
 speech_recognition
 SpeechRecognition
 SpeechRecognition
+PyAudio
+librosa
