@@ -1,5 +1,4 @@
 SpeechRecognition
 scipy
 numpy
-pyaudio
 librosa
