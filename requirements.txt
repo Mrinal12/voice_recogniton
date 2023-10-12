@@ -1,1 +1,1 @@
-pip install SpeechRecognition
+SpeechRecognition
