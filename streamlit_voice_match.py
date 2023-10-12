@@ -4,6 +4,7 @@ import numpy as np
 from scipy.spatial import distance
 import librosa
 import librosa.display
+import pyaudio
 
 #Initialize the recognizer
 r = sr.Recognizer()
